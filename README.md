@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm passionate about working on positive and impac
 
 ## About Me
 - **🌟 Tech Enthusiast:** I have a deep passion for technology and innovation.
-- **💻 Programming:** My goal is to become a high-level programmer in C# & CSS.
+- **💻 Programming:** My goal is to become a high-level programmer in C++
 
 ## Contact
 - 🕐Feel free to explore my repositories and contact me.
